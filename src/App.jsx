@@ -35,7 +35,7 @@ function App() {
 
 
 
-  const items = [{value: "Главная", href: '/main', icon: "api", component: <Miner/>},
+  const items = [{value: "Главная", href: '/', icon: "api", component: <Miner/>},
   {value: "Second", href: '/table', icon: "api",  component:  <EditableTable columns={columns} rows={data} actions />},
   {value: "Third", href: '/shop', icon: "api",  component: <Miner/>}
 
