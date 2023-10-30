@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/miner_profit/static/css/main.b5023300.css",
+    "main.js": "/miner_profit/static/js/main.c9cd98eb.js",
+    "static/js/787.beee684c.chunk.js": "/miner_profit/static/js/787.beee684c.chunk.js",
+    "index.html": "/miner_profit/index.html",
+    "main.b5023300.css.map": "/miner_profit/static/css/main.b5023300.css.map",
+    "main.c9cd98eb.js.map": "/miner_profit/static/js/main.c9cd98eb.js.map",
+    "787.beee684c.chunk.js.map": "/miner_profit/static/js/787.beee684c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5023300.css",
+    "static/js/main.c9cd98eb.js"
+  ]
+}
